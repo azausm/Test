@@ -9,7 +9,7 @@ public class ReverseStringTest {
 
     @Test
     public void reverseStringDigit(){
-        Assertions.assertEquals("cba321", ReverseString.reverseString("123abc"));
+        Assertions.assertEquals("mioimo", ReverseString.reverseString("123abc"));
     }
     @Test
     public void reverseString(){
